@@ -1,0 +1,146 @@
+{
+   "checksum": "5a9422b306824ccd74b394979412e5a2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13252931935000000",
+            "guid": "e40dc903-4019-45d9-88cb-49779e28db27",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/"
+         }, {
+            "date_added": "13252932165000000",
+            "guid": "0783a31b-61b7-499a-9130-65cae3fd80bc",
+            "id": "6",
+            "name": "reddit: the front page of the internet",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13252931950000000",
+            "guid": "8bd281eb-3bd7-452f-a058-545de16e6dba",
+            "id": "7",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/?gl=US"
+         }, {
+            "date_added": "13252931982000000",
+            "guid": "1fd7afcd-0ee5-48fb-885b-19f082ca6511",
+            "id": "8",
+            "name": "Netflix",
+            "type": "url",
+            "url": "https://www.netflix.com/browse"
+         }, {
+            "date_added": "13255627532000000",
+            "guid": "c23179ce-100a-4483-8c68-4bf5285fb939",
+            "id": "9",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13255627544000000",
+            "guid": "d20b16e9-d1d8-4507-aa66-0220a5819890",
+            "id": "10",
+            "name": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+            "type": "url",
+            "url": "https://stackoverflow.com/"
+         }, {
+            "date_added": "13255273747000000",
+            "guid": "0d7474a1-3a55-4418-9183-92e338cfa49c",
+            "id": "11",
+            "name": "CS1000",
+            "type": "url",
+            "url": "https://cs1000.vercel.app/"
+         }, {
+            "date_added": "13252932233000000",
+            "guid": "50562ad6-f1ed-4e8e-9bf0-fc81b8be47b5",
+            "id": "12",
+            "name": "Sydney Student - The University of Sydney",
+            "type": "url",
+            "url": "https://sydneystudent.sydney.edu.au/sitsvision/wrd/siw_portal.url?9FC914A842AA11EBmUGHpKKd5mEWZ9jWCVM8O6GkO7cD3rBihKu6oqf4eVhtTi-m19n3znf0olhF5zgKC0HsjZQrUOfv2qp0NMFmzJW4ibNEHf7_yMwXjjOOvCT53wFS016QCCp9UwGxiwknMjQduJLm33aERpr9KKYgxmTwoNQYh9j3dxUdBlhOT20zh6kVDPUbzo4tMjl_6J0YkQ2cyXYGsbI4UDedkp10F_DumTC_WS-I2V_6-dPxUgywQ6RjyDBHwa3wc48Kx02W"
+         }, {
+            "date_added": "13252932243000000",
+            "guid": "d610c508-afc1-4dab-af83-872ce3548feb",
+            "id": "13",
+            "name": "Canvas",
+            "type": "url",
+            "url": "https://canvas.sydney.edu.au/"
+         }, {
+            "date_added": "13252932286000000",
+            "guid": "7e0bbdbf-3a61-4222-8d12-a5de7fa064ea",
+            "id": "14",
+            "name": "Edsten",
+            "type": "url",
+            "url": "https://edstem.org/dashboard"
+         }, {
+            "date_added": "13252932377000000",
+            "guid": "8d58ffb5-c7e8-4413-8ed0-2049ae8f4156",
+            "id": "15",
+            "name": "Outlook",
+            "type": "url",
+            "url": "https://outlook.office365.com/mail/inbox/id/AAQkADZiM2JjM2JjLTM2NWMtNDg5ZS04ZmM0LWFjNDMzNGE1YjUxMQAQAE3n01D10sVGoPlJOJfgiMA%3D"
+         }, {
+            "children": [ {
+               "date_added": "13256535735000000",
+               "guid": "012a7042-8c32-4049-83d6-81f3764c6381",
+               "id": "17",
+               "name": "Understanding Web Skeletons and Skins",
+               "type": "url",
+               "url": "https://canvas.sydney.edu.au/courses/20702"
+            }, {
+               "date_added": "13256535740000000",
+               "guid": "99e3c24d-e05c-46b7-b22b-ae85c2795f18",
+               "id": "18",
+               "name": "Timmy O'Mahony | Software Developer",
+               "type": "url",
+               "url": "https://timmyomahony.com/"
+            }, {
+               "date_added": "13256535742000000",
+               "guid": "ba2358c8-bbc9-4830-bfe0-67ab49f3c6d0",
+               "id": "19",
+               "name": "derpalot",
+               "type": "url",
+               "url": "https://github.com/derpalot"
+            } ],
+            "date_added": "13260015945493536",
+            "date_modified": "0",
+            "guid": "63da49e5-9ddd-45a0-b2cf-9878e8e9d031",
+            "id": "16",
+            "name": "Frontend",
+            "type": "folder"
+         }, {
+            "date_added": "13256535774000000",
+            "guid": "2daa3bed-bbda-49a8-ba44-10aee4039fb4",
+            "id": "20",
+            "name": "Course Modules: ELEC1601/ELEC9601 Introduction to Computer Systems",
+            "type": "url",
+            "url": "https://canvas.sydney.edu.au/courses/25935/modules"
+         } ],
+         "date_added": "13260015569578023",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13260015569578028",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13260015569578031",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
